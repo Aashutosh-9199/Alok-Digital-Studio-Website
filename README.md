@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -14,3 +15,16 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+=======
+# Alok-Digital-Studio-Website
+A responsive wedding photography and videography website for ALOK Digital Studio, featuring wedding packages, photo and video galleries, services, and WhatsApp contact options. Built with React, Vite, HTML, and CSS.
+>>>>>>> 175407eea7c2008dd34b20e319807748ea2b20cd
+
+
+
+
+<<<<<<< HEAD
+Your local README content
+=======
+GitHub README content
+>>>>>>> main
